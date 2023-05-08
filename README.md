@@ -26,7 +26,7 @@ Este projeto foi criado por Cassiano Peres, um instrutor especialista em Cloud A
 
 # Comandos AWS CLI utilizados neste projeto:
 
-## Lembrando que recentemente foi disponibilizado o AWS CloudShell. Agora podemos executar comandos AWS CLI usando seu shell preferido Bash, PowerShell, ouZ shel sem precisar baixar ou instalar ferramentas de linha de comando. É um shell pré-autenticado baseado em navegador que você pode iniciar diretamente do AWS Management Console, além de diversos otros recursos. Não posso deixar de destacar o AWS CloudShell ganha itens de segurança específicos além do aumento de produtividade e liberdade.
+## Lembrando o AWS CloudShell foi lançado em dezembro de 2020 durante o evento AWS re:Invent. CloudShell é um ambiente de shell gerenciado diretamente na AWS Management Console, que permite executar comandos e scripts de gerenciamento da AWS sem precisar instalar e configurar ferramentas CLI e SDK. Agora podemos executar comandos AWS CLI usando seu shell preferido Bash, PowerShell, ouZ shel sem precisar baixar ou instalar ferramentas de linha de comando. É um shell pré-autenticado baseado em navegador que você pode iniciar diretamente do AWS Management Console, além de diversos otros recursos. Não posso deixar de destacar o AWS CloudShell ganha itens de segurança específicos além do aumento de produtividade e liberdade.
 
 ## Abaixo roteiro do projeto pelo AWS CLI seguindo o especialsta já mencionado:
 
